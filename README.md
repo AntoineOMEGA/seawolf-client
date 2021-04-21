@@ -1,5 +1,7 @@
 # Seawolf Client Application
 
+![Screenshot (1)](https://user-images.githubusercontent.com/31717032/115579977-e9b06880-a283-11eb-87e7-bf730e904954.png)
+
 Created during Southern Utah CodeCamp 2020
 
 Developed with Unreal Engine 4.
