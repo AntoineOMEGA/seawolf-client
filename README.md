@@ -13,6 +13,7 @@ Used SocketIO on the server-side.
 Assets modeled with Blender.
 
 Tim Stander - Controller website, server, and all SocketIO implementation.
+
 Antoine Florian - 3D modeling and game functionality.
 
 Video Submission for Southern Utah CodeCamp 2020 [Video](https://www.youtube.com/watch?v=cdX3QgFezSk/)
